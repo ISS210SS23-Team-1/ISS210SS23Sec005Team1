@@ -11360,7 +11360,7 @@ html {
   font-weight: 700;
 }
 #mainNav .navbar-brand {
-  color: #fff;
+  color: #d000ff;
 }
 #mainNav .navbar-nav {
   margin-top: 1rem;
@@ -11401,7 +11401,7 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #ff0088;
+    background: #1abc9c;
   }
 
   #mainNav.navbar-shrink {
