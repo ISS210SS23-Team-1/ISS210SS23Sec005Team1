@@ -21,7 +21,7 @@
   --bs-green: #198754;
   --bs-teal: #1abc9c;
   --bs-cyan: #0dcaf0;
-  --bs-orange: #ffa500;
+  --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
   --bs-gray-100: #f8f9fa;
@@ -11505,5 +11505,5 @@ html {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #ffa500;
 }
