@@ -1,12 +1,13 @@
-# ISS210FinalTemplate
-This is a template for the ISS210's final webstie on social justice (not required for students to use).
-You should use this file to drop citations for all the images, articles, etc. that you use. 
-Be sure to replace the following with your substitions.
-ISSFront: https://www.every.org/racial-justice
-SJImage1: https://www.pinterest.ca/pin/408772103654309571/
-SJImage2: Youtube
-SJImage3: https://bloody-disgusting.com/editorials/3601617/evolution-undead-brief-history-zombies-horror/
-SJImage4: https://stock.adobe.com/search?k=economic+justice 
-SJImage5: https://www.jamesgmartin.center/2018/08/social-justice-is-overrunning-the-university-of-texas/
-SJImage6: https://www.facebook.com/groups/1016906918423966/ 
-Zombies in Revolt: The Violent Revolution of American Cinematic Monsters; DOI: 10.15291/sic/2.4.lc.2 
+ISSFront: https://i.pinimg.com/originals/be/aa/d1/beaad18d124a9e8e225f894e36a6250f.png
+SJImage1: https://i.pinimg.com/736x/7a/36/56/7a36561efceaae350bcc16a5b46693da.jpg
+SJImage2: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOvhyBsRRfhrLrCRjacj2VbLb2g9R1UGmh6VuzKrbqayf9c4&s
+SJImage3: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfDq1Aid3dJl4aWK5kx1E7Xvf25UIeIa4GGK1e8IyZVxMNjjx&s
+SJImage4: https://cdn.statcdn.com/Infographic/images/normal/25920.jpeg
+SJImage5: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2lVj9yJysmBlaM2uXEEtLexPCTtogDG4ESVjc-9U-ntFn0P1h&s
+SJImage6: https://img.freepik.com/free-vector/business-management-vector_53876-44129.jpg
+Article1: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8824724/
+Article2: https://www.pharmaceutical-technology.com/features/insulin-pricing-in-flux-as-major-pharma-players-take-action/
+Article3: https://brownpoliticalreview.org/2020/01/prescription-drug-prices-are-too-high-and-big-pharma-knows-it/
+Article4: https://www.census.gov/content/dam/Census/library/publications/2022/demo/p60-278.pdf
+Article5: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/217324
+Video: https://www.youtube.com/watch?v=aeG2lWxYO_Y
